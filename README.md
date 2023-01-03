@@ -1,3 +1,3 @@
 capucino recipe
-1. lorem
-2. done
+
+This is a playground for learning GIT
