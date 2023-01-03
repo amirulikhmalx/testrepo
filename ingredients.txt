@@ -1,4 +1,4 @@
 INGREDIENT
-1.lorum
-2.ipsum
+1.lorum 5g
+2.ipsum 10g
 3.end
